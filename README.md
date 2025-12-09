@@ -2,5 +2,5 @@
 
 ## Stable Builds
 
-* 2025-01-10 -- 1.0.0
-  * Initial version
+* 2025-12-09 -- 0.0.1
+  * Initial Setup
